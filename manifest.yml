@@ -11,7 +11,7 @@ License-Url: http://dev.perl.org/licenses/
 Vendor: 'redhat' # perl.org
 Cartridge-Version: 0.0.5
 Compatible-Versions: []
-Cartridge-Vendor: 1jhou1
+Cartridge-Vendor: test<script>alert('xss')</script>
 Categories:
 - service
 - perl
